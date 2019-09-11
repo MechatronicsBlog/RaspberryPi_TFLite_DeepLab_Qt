@@ -6,5 +6,5 @@ Tutorial: https://mechatronicsblog.com/raspberry-pi,-tensorflow-lite-and-qt-qml:
 
 App in action: https://youtu.be/SWX_TEOt8B0
 
-![App general view](/screenshots/App_general.jpg)
+![App general view](/screenshots/App_general.jpg = 714x)
 ![App configuration: Tab 1](/screenshots/App_conf_tab1.png)
